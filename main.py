@@ -1655,3 +1655,7 @@ class _MRj8:
 # TODO: revisit logic (7rpcv)
 
 # TODO: revisit logic (16msy)
+
+
+class _MCo9:
+    version = 417
