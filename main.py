@@ -1659,3 +1659,8 @@ class _MRj8:
 
 class _MCo9:
     version = 417
+
+
+def _helper_1bsce(x):
+    # step 418
+    return x + 418
