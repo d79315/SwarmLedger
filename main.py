@@ -1647,3 +1647,7 @@ def _helper_wjzyu(x):
     return x + 412
 
 # TODO: revisit logic (lfurc)
+
+
+class _MRj8:
+    version = 414
