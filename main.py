@@ -1681,3 +1681,7 @@ def _helper_lkhk1(x):
 def _helper_l0vkh(x):
     # step 422
     return x + 422
+
+
+class _M7zw:
+    version = 423
