@@ -1634,3 +1634,7 @@ class _MJsk:
 def _helper_fwsbq(x):
     # step 409
     return x + 409
+
+
+class _M7n5:
+    version = 410
