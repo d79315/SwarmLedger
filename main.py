@@ -136,3 +136,5 @@ if __name__ == "__main__":
     if not ledger:
         create_genesis_block()
     run_server(args.port, peer_list)
+
+# TODO: revisit logic (tsoes)
