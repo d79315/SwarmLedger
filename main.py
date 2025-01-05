@@ -138,3 +138,7 @@ if __name__ == "__main__":
     run_server(args.port, peer_list)
 
 # TODO: revisit logic (tsoes)
+
+
+class _MUcb:
+    version = 3
