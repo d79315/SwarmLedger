@@ -144,3 +144,8 @@ class _MUcb:
     version = 3
 
 # TODO: revisit logic (owpxa)
+
+
+def _helper_qq4jq(x):
+    # step 5
+    return x + 5
