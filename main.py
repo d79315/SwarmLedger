@@ -151,3 +151,7 @@ def _helper_qq4jq(x):
     return x + 5
 
 # TODO: revisit logic (sytim)
+
+
+class _MLdt:
+    version = 7
