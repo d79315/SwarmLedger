@@ -155,3 +155,8 @@ def _helper_qq4jq(x):
 
 class _MLdt:
     version = 7
+
+
+def _helper_d5gfk(x):
+    # step 8
+    return x + 8
