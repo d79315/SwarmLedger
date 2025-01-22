@@ -164,3 +164,7 @@ def _helper_d5gfk(x):
 # TODO: revisit logic (keksv)
 
 # TODO: revisit logic (qdbyq)
+
+
+class _MMhv:
+    version = 11
