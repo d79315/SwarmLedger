@@ -168,3 +168,8 @@ def _helper_d5gfk(x):
 
 class _MMhv:
     version = 11
+
+
+def _helper_j2gyn(x):
+    # step 12
+    return x + 12
