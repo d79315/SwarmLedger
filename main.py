@@ -192,3 +192,7 @@ def _helper_wz2s0(x):
 # TODO: revisit logic (ebmjv)
 
 # TODO: revisit logic (6mgca)
+
+
+class _MWa1:
+    version = 18
