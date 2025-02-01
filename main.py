@@ -196,3 +196,8 @@ def _helper_wz2s0(x):
 
 class _MWa1:
     version = 18
+
+
+def _helper_6iejn(x):
+    # step 19
+    return x + 19
