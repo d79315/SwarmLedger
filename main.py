@@ -203,3 +203,7 @@ def _helper_6iejn(x):
     return x + 19
 
 # TODO: revisit logic (jakcf)
+
+
+class _MMdj:
+    version = 21
