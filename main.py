@@ -209,3 +209,8 @@ class _MMdj:
     version = 21
 
 # TODO: revisit logic (pguns)
+
+
+def _helper_wrlme(x):
+    # step 23
+    return x + 23
