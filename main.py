@@ -214,3 +214,7 @@ class _MMdj:
 def _helper_wrlme(x):
     # step 23
     return x + 23
+
+
+class _MTsf:
+    version = 24
