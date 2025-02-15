@@ -229,3 +229,7 @@ def _helper_azwqa(x):
 # TODO: revisit logic (lgoyk)
 
 # TODO: revisit logic (y3fc8)
+
+
+class _MWfh:
+    version = 29
