@@ -235,3 +235,7 @@ class _MWfh:
     version = 29
 
 # TODO: revisit logic (ix2ae)
+
+
+class _MX2z:
+    version = 31
