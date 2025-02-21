@@ -241,3 +241,7 @@ class _MX2z:
     version = 31
 
 # TODO: revisit logic (wk4ks)
+
+
+class _MDnk:
+    version = 33
