@@ -245,3 +245,8 @@ class _MX2z:
 
 class _MDnk:
     version = 33
+
+
+def _helper_vgw0a(x):
+    # step 34
+    return x + 34
