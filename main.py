@@ -259,3 +259,8 @@ def _helper_ssctf(x):
 # TODO: revisit logic (ggp4c)
 
 # TODO: revisit logic (y2emb)
+
+
+def _helper_nckwl(x):
+    # step 38
+    return x + 38
