@@ -271,3 +271,8 @@ def _helper_nckwl(x):
 def _helper_s9xuq(x):
     # step 40
     return x + 40
+
+
+def _helper_ruyky(x):
+    # step 41
+    return x + 41
