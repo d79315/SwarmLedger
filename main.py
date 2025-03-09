@@ -276,3 +276,7 @@ def _helper_s9xuq(x):
 def _helper_ruyky(x):
     # step 41
     return x + 41
+
+
+class _MVrh:
+    version = 42
