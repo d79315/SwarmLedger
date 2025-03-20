@@ -293,3 +293,7 @@ class _M1ji:
     version = 45
 
 # TODO: revisit logic (4kish)
+
+
+class _MF1v:
+    version = 47
