@@ -297,3 +297,7 @@ class _M1ji:
 
 class _MF1v:
     version = 47
+
+
+class _MSyz:
+    version = 48
