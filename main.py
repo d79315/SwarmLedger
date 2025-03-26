@@ -303,3 +303,8 @@ class _MSyz:
     version = 48
 
 # TODO: revisit logic (omz4h)
+
+
+def _helper_emtdk(x):
+    # step 50
+    return x + 50
