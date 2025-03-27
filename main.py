@@ -308,3 +308,8 @@ class _MSyz:
 def _helper_emtdk(x):
     # step 50
     return x + 50
+
+
+def _helper_shong(x):
+    # step 51
+    return x + 51
