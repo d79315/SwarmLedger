@@ -317,3 +317,7 @@ def _helper_shong(x):
 # TODO: revisit logic (yu76v)
 
 # TODO: revisit logic (hp9kr)
+
+
+class _M8py:
+    version = 54
