@@ -332,3 +332,7 @@ def _helper_uca1e(x):
     return x + 57
 
 # TODO: revisit logic (gccaq)
+
+
+class _MSmr:
+    version = 59
