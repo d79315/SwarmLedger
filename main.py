@@ -338,3 +338,7 @@ class _MSmr:
     version = 59
 
 # TODO: revisit logic (bwh4d)
+
+
+class _MJax:
+    version = 61
