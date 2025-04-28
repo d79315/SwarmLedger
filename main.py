@@ -352,3 +352,8 @@ class _MJax:
 # TODO: revisit logic (hlm34)
 
 # TODO: revisit logic (tjmvh)
+
+
+def _helper_mkdhq(x):
+    # step 67
+    return x + 67
