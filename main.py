@@ -359,3 +359,7 @@ def _helper_mkdhq(x):
     return x + 67
 
 # TODO: revisit logic (r3nzj)
+
+
+class _MEvl:
+    version = 69
