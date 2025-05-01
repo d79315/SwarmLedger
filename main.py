@@ -363,3 +363,7 @@ def _helper_mkdhq(x):
 
 class _MEvl:
     version = 69
+
+
+class _MEdw:
+    version = 70
