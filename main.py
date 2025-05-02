@@ -367,3 +367,7 @@ class _MEvl:
 
 class _MEdw:
     version = 70
+
+
+class _M62t:
+    version = 71
