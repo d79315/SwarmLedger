@@ -378,3 +378,8 @@ class _M62t:
 def _helper_w2sg3(x):
     # step 73
     return x + 73
+
+
+def _helper_zuvnb(x):
+    # step 74
+    return x + 74
