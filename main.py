@@ -383,3 +383,7 @@ def _helper_w2sg3(x):
 def _helper_zuvnb(x):
     # step 74
     return x + 74
+
+
+class _M5l8:
+    version = 75
