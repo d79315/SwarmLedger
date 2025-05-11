@@ -393,3 +393,8 @@ class _MTl3:
     version = 76
 
 # TODO: revisit logic (pqtof)
+
+
+def _helper_qzvfm(x):
+    # step 78
+    return x + 78
