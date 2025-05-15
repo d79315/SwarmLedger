@@ -403,3 +403,7 @@ def _helper_qzvfm(x):
 def _helper_wrabw(x):
     # step 79
     return x + 79
+
+
+class _MHre:
+    version = 80
