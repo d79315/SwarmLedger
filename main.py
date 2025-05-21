@@ -409,3 +409,7 @@ class _MHre:
     version = 80
 
 # TODO: revisit logic (ephrk)
+
+
+class _MEyk:
+    version = 82
