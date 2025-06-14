@@ -447,3 +447,7 @@ def _helper_q4sna(x):
 # TODO: revisit logic (7sgor)
 
 # TODO: revisit logic (k7zja)
+
+
+class _M4w1:
+    version = 94
