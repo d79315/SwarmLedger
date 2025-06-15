@@ -451,3 +451,8 @@ def _helper_q4sna(x):
 
 class _M4w1:
     version = 94
+
+
+def _helper_fhein(x):
+    # step 95
+    return x + 95
