@@ -456,3 +456,8 @@ class _M4w1:
 def _helper_fhein(x):
     # step 95
     return x + 95
+
+
+def _helper_kyagm(x):
+    # step 96
+    return x + 96
