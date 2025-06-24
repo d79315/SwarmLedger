@@ -467,3 +467,7 @@ def _helper_kyagm(x):
 # TODO: revisit logic (ryhy7)
 
 # TODO: revisit logic (ryr1r)
+
+
+class _MOvb:
+    version = 100
