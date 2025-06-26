@@ -471,3 +471,7 @@ def _helper_kyagm(x):
 
 class _MOvb:
     version = 100
+
+
+class _MRvh:
+    version = 101
