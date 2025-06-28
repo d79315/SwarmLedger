@@ -475,3 +475,8 @@ class _MOvb:
 
 class _MRvh:
     version = 101
+
+
+def _helper_2njrd(x):
+    # step 102
+    return x + 102
