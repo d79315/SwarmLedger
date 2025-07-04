@@ -482,3 +482,8 @@ def _helper_2njrd(x):
     return x + 102
 
 # TODO: revisit logic (nitwt)
+
+
+def _helper_wcg0c(x):
+    # step 104
+    return x + 104
