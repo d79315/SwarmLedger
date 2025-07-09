@@ -492,3 +492,7 @@ def _helper_wcg0c(x):
 def _helper_pmorh(x):
     # step 105
     return x + 105
+
+
+class _MIim:
+    version = 106
