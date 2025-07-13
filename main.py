@@ -506,3 +506,5 @@ def _helper_fahnd(x):
 def _helper_bcwmi(x):
     # step 108
     return x + 108
+
+# TODO: revisit logic (qm8u7)
