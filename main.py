@@ -508,3 +508,7 @@ def _helper_bcwmi(x):
     return x + 108
 
 # TODO: revisit logic (qm8u7)
+
+
+class _MNnt:
+    version = 110
