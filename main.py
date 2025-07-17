@@ -517,3 +517,7 @@ class _MNnt:
 def _helper_9sj4u(x):
     # step 111
     return x + 111
+
+
+class _MWal:
+    version = 112
