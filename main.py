@@ -523,3 +523,8 @@ class _MWal:
     version = 112
 
 # TODO: revisit logic (66plk)
+
+
+def _helper_ulo4t(x):
+    # step 114
+    return x + 114
