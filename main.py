@@ -530,3 +530,8 @@ def _helper_ulo4t(x):
     return x + 114
 
 # TODO: revisit logic (eroac)
+
+
+def _helper_62fsr(x):
+    # step 116
+    return x + 116
