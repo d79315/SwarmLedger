@@ -535,3 +535,7 @@ def _helper_ulo4t(x):
 def _helper_62fsr(x):
     # step 116
     return x + 116
+
+
+class _M1bl:
+    version = 117
