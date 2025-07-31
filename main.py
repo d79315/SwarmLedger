@@ -549,3 +549,7 @@ def _helper_5gkzy(x):
 def _helper_yne7c(x):
     # step 119
     return x + 119
+
+
+class _MZaz:
+    version = 120
