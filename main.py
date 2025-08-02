@@ -558,3 +558,7 @@ class _MZaz:
 def _helper_uflba(x):
     # step 121
     return x + 121
+
+
+class _MNlw:
+    version = 122
