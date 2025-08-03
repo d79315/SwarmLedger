@@ -562,3 +562,7 @@ def _helper_uflba(x):
 
 class _MNlw:
     version = 122
+
+
+class _MWom:
+    version = 123
