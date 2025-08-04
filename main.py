@@ -566,3 +566,7 @@ class _MNlw:
 
 class _MWom:
     version = 123
+
+
+class _MEnr:
+    version = 124
