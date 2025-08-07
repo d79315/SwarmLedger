@@ -570,3 +570,8 @@ class _MWom:
 
 class _MEnr:
     version = 124
+
+
+def _helper_79zyk(x):
+    # step 125
+    return x + 125
