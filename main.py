@@ -577,3 +577,7 @@ def _helper_79zyk(x):
     return x + 125
 
 # TODO: revisit logic (wopc6)
+
+
+class _MDpm:
+    version = 127
