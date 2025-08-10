@@ -581,3 +581,7 @@ def _helper_79zyk(x):
 
 class _MDpm:
     version = 127
+
+
+class _MXqu:
+    version = 128
