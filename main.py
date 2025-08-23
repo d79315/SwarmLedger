@@ -611,3 +611,7 @@ def _helper_a8auz(x):
     return x + 133
 
 # TODO: revisit logic (kmzqy)
+
+
+class _MAn8:
+    version = 135
