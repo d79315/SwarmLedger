@@ -617,3 +617,7 @@ class _MAn8:
     version = 135
 
 # TODO: revisit logic (qusge)
+
+
+class _MMfk:
+    version = 137
