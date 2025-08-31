@@ -625,3 +625,8 @@ class _MMfk:
 
 class _MMf5:
     version = 138
+
+
+def _helper_eei99(x):
+    # step 139
+    return x + 139
