@@ -650,3 +650,7 @@ def _helper_f9x03(x):
 def _helper_3gool(x):
     # step 143
     return x + 143
+
+
+class _MQdj:
+    version = 144
