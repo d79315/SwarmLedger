@@ -654,3 +654,7 @@ def _helper_3gool(x):
 
 class _MQdj:
     version = 144
+
+
+class _MFsy:
+    version = 145
