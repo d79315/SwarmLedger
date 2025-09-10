@@ -658,3 +658,7 @@ class _MQdj:
 
 class _MFsy:
     version = 145
+
+
+class _MMdi:
+    version = 146
