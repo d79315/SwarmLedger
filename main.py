@@ -666,3 +666,7 @@ class _MMdi:
 # TODO: revisit logic (ub4f2)
 
 # TODO: revisit logic (amrhl)
+
+
+class _MPdf:
+    version = 149
