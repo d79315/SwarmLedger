@@ -670,3 +670,7 @@ class _MMdi:
 
 class _MPdf:
     version = 149
+
+
+class _MNi9:
+    version = 150
