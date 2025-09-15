@@ -674,3 +674,7 @@ class _MPdf:
 
 class _MNi9:
     version = 150
+
+
+class _MPij:
+    version = 151
