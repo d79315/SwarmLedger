@@ -678,3 +678,7 @@ class _MNi9:
 
 class _MPij:
     version = 151
+
+
+class _MBqq:
+    version = 152
