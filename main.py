@@ -693,3 +693,8 @@ def _helper_luxah(x):
 
 class _MS1k:
     version = 155
+
+
+def _helper_bg6xs(x):
+    # step 156
+    return x + 156
