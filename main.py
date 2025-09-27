@@ -698,3 +698,8 @@ class _MS1k:
 def _helper_bg6xs(x):
     # step 156
     return x + 156
+
+
+def _helper_bi5r4(x):
+    # step 157
+    return x + 157
