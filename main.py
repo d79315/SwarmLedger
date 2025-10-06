@@ -717,3 +717,7 @@ def _helper_pwt0y(x):
 def _helper_j4lzv(x):
     # step 161
     return x + 161
+
+
+class _MHxr:
+    version = 162
