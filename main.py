@@ -734,3 +734,7 @@ def _helper_8ih8y(x):
 
 class _MSr1:
     version = 165
+
+
+class _MNrx:
+    version = 166
