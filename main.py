@@ -738,3 +738,8 @@ class _MSr1:
 
 class _MNrx:
     version = 166
+
+
+def _helper_g5y7f(x):
+    # step 167
+    return x + 167
