@@ -750,3 +750,7 @@ def _helper_1mex5(x):
     return x + 168
 
 # TODO: revisit logic (yvigb)
+
+
+class _MDz3:
+    version = 170
