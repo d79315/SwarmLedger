@@ -761,3 +761,7 @@ def _helper_kxsz0(x):
     return x + 171
 
 # TODO: revisit logic (dd010)
+
+
+class _MBfx:
+    version = 173
