@@ -765,3 +765,8 @@ def _helper_kxsz0(x):
 
 class _MBfx:
     version = 173
+
+
+def _helper_rtwuu(x):
+    # step 174
+    return x + 174
