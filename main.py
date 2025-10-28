@@ -779,3 +779,8 @@ class _M7tn:
 def _helper_znsqq(x):
     # step 176
     return x + 176
+
+
+def _helper_7pdeq(x):
+    # step 177
+    return x + 177
