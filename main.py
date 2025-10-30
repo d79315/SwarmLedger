@@ -786,3 +786,7 @@ def _helper_7pdeq(x):
     return x + 177
 
 # TODO: revisit logic (tlr0a)
+
+
+class _MVkj:
+    version = 179
