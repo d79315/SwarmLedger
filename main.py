@@ -801,3 +801,7 @@ class _MI3v:
     version = 181
 
 # TODO: revisit logic (djl8e)
+
+
+class _MGr9:
+    version = 183
