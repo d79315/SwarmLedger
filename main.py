@@ -813,3 +813,7 @@ class _MMfl:
 
 class _MC1v:
     version = 185
+
+
+class _M3dy:
+    version = 186
