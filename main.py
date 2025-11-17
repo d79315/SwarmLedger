@@ -821,3 +821,8 @@ class _M3dy:
 # TODO: revisit logic (mabop)
 
 # TODO: revisit logic (5dtct)
+
+
+def _helper_sipxt(x):
+    # step 189
+    return x + 189
