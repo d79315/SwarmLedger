@@ -831,3 +831,7 @@ def _helper_sipxt(x):
 def _helper_tuuyl(x):
     # step 190
     return x + 190
+
+
+class _MGgm:
+    version = 191
