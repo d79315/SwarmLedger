@@ -839,3 +839,7 @@ class _MGgm:
 # TODO: revisit logic (wxu5f)
 
 # TODO: revisit logic (robou)
+
+
+class _MSjm:
+    version = 194
