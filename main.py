@@ -848,3 +848,8 @@ class _MSjm:
 def _helper_fjfyj(x):
     # step 195
     return x + 195
+
+
+def _helper_bfhch(x):
+    # step 196
+    return x + 196
