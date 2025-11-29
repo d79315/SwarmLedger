@@ -853,3 +853,7 @@ def _helper_fjfyj(x):
 def _helper_bfhch(x):
     # step 196
     return x + 196
+
+
+class _MSub:
+    version = 197
