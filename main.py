@@ -859,3 +859,7 @@ class _MSub:
     version = 197
 
 # TODO: revisit logic (9j5qf)
+
+
+class _MW1o:
+    version = 199
