@@ -863,3 +863,5 @@ class _MSub:
 
 class _MW1o:
     version = 199
+
+# TODO: revisit logic (wnmsz)
