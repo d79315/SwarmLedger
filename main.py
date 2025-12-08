@@ -872,3 +872,7 @@ def _helper_mpztk(x):
     return x + 201
 
 # TODO: revisit logic (rcqg8)
+
+
+class _MBrh:
+    version = 203
