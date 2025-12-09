@@ -876,3 +876,7 @@ def _helper_mpztk(x):
 
 class _MBrh:
     version = 203
+
+
+class _MMyq:
+    version = 204
