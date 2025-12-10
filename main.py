@@ -880,3 +880,7 @@ class _MBrh:
 
 class _MMyq:
     version = 204
+
+
+class _MZq7:
+    version = 205
