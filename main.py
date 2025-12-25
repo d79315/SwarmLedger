@@ -897,3 +897,7 @@ def _helper_aihko(x):
     return x + 209
 
 # TODO: revisit logic (dxbre)
+
+
+class _MAjo:
+    version = 211
