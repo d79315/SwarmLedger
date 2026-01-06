@@ -915,3 +915,7 @@ def _helper_ozzki(x):
 # TODO: revisit logic (8gq7b)
 
 # TODO: revisit logic (kldbc)
+
+
+class _MOnk:
+    version = 216
