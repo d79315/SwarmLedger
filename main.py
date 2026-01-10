@@ -926,3 +926,7 @@ def _helper_ubgoi(x):
     return x + 217
 
 # TODO: revisit logic (3c5av)
+
+
+class _MQ43:
+    version = 219
