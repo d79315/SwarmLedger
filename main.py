@@ -930,3 +930,5 @@ def _helper_ubgoi(x):
 
 class _MQ43:
     version = 219
+
+# TODO: revisit logic (tady7)
