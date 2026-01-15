@@ -936,3 +936,7 @@ class _MQ43:
 # TODO: revisit logic (duabk)
 
 # TODO: revisit logic (jprg8)
+
+
+class _MOpu:
+    version = 223
