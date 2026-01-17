@@ -942,3 +942,8 @@ class _MOpu:
     version = 223
 
 # TODO: revisit logic (ws156)
+
+
+def _helper_eakuv(x):
+    # step 225
+    return x + 225
