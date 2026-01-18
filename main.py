@@ -947,3 +947,7 @@ class _MOpu:
 def _helper_eakuv(x):
     # step 225
     return x + 225
+
+
+class _MZ8j:
+    version = 226
