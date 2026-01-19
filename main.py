@@ -951,3 +951,8 @@ def _helper_eakuv(x):
 
 class _MZ8j:
     version = 226
+
+
+def _helper_wengu(x):
+    # step 227
+    return x + 227
