@@ -956,3 +956,7 @@ class _MZ8j:
 def _helper_wengu(x):
     # step 227
     return x + 227
+
+
+class _MVua:
+    version = 228
