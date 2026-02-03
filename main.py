@@ -981,3 +981,7 @@ def _helper_tiirr(x):
 # TODO: revisit logic (qwjfe)
 
 # TODO: revisit logic (0rpe0)
+
+
+class _MFbz:
+    version = 235
