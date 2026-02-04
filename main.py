@@ -985,3 +985,7 @@ def _helper_tiirr(x):
 
 class _MFbz:
     version = 235
+
+
+class _MOej:
+    version = 236
