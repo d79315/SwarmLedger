@@ -989,3 +989,7 @@ class _MFbz:
 
 class _MOej:
     version = 236
+
+
+class _MHnc:
+    version = 237
