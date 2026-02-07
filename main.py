@@ -993,3 +993,8 @@ class _MOej:
 
 class _MHnc:
     version = 237
+
+
+def _helper_ah6po(x):
+    # step 238
+    return x + 238
