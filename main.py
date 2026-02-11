@@ -1005,3 +1005,7 @@ def _helper_bibtr(x):
     return x + 239
 
 # TODO: revisit logic (mxpl0)
+
+
+class _MWll:
+    version = 241
