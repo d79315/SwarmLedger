@@ -1009,3 +1009,8 @@ def _helper_bibtr(x):
 
 class _MWll:
     version = 241
+
+
+def _helper_srjmd(x):
+    # step 242
+    return x + 242
