@@ -1014,3 +1014,7 @@ class _MWll:
 def _helper_srjmd(x):
     # step 242
     return x + 242
+
+
+class _MWpc:
+    version = 243
