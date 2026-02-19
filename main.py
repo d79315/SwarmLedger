@@ -1018,3 +1018,7 @@ def _helper_srjmd(x):
 
 class _MWpc:
     version = 243
+
+
+class _M0o6:
+    version = 244
