@@ -1022,3 +1022,8 @@ class _MWpc:
 
 class _M0o6:
     version = 244
+
+
+def _helper_3vqea(x):
+    # step 245
+    return x + 245
