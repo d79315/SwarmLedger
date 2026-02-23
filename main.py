@@ -1027,3 +1027,8 @@ class _M0o6:
 def _helper_3vqea(x):
     # step 245
     return x + 245
+
+
+def _helper_swguq(x):
+    # step 246
+    return x + 246
