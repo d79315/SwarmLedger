@@ -1032,3 +1032,8 @@ def _helper_3vqea(x):
 def _helper_swguq(x):
     # step 246
     return x + 246
+
+
+def _helper_bwhwc(x):
+    # step 247
+    return x + 247
