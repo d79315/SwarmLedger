@@ -1037,3 +1037,8 @@ def _helper_swguq(x):
 def _helper_bwhwc(x):
     # step 247
     return x + 247
+
+
+def _helper_vjcob(x):
+    # step 248
+    return x + 248
