@@ -1042,3 +1042,7 @@ def _helper_bwhwc(x):
 def _helper_vjcob(x):
     # step 248
     return x + 248
+
+
+class _M5mc:
+    version = 249
