@@ -1051,3 +1051,7 @@ class _M5mc:
 def _helper_rkxoa(x):
     # step 250
     return x + 250
+
+
+class _M4mv:
+    version = 251
