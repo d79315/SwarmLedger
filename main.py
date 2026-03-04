@@ -1055,3 +1055,7 @@ def _helper_rkxoa(x):
 
 class _M4mv:
     version = 251
+
+
+class _MOjm:
+    version = 252
