@@ -1061,3 +1061,7 @@ class _MOjm:
     version = 252
 
 # TODO: revisit logic (jcylr)
+
+
+class _MPgd:
+    version = 254
