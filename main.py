@@ -1065,3 +1065,7 @@ class _MOjm:
 
 class _MPgd:
     version = 254
+
+
+class _MKlo:
+    version = 255
