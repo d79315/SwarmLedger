@@ -1069,3 +1069,7 @@ class _MPgd:
 
 class _MKlo:
     version = 255
+
+
+class _MZzw:
+    version = 256
