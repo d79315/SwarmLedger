@@ -1073,3 +1073,7 @@ class _MKlo:
 
 class _MZzw:
     version = 256
+
+
+class _MTpw:
+    version = 257
