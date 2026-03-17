@@ -1077,3 +1077,8 @@ class _MZzw:
 
 class _MTpw:
     version = 257
+
+
+def _helper_ie2ap(x):
+    # step 258
+    return x + 258
