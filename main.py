@@ -1092,3 +1092,7 @@ def _helper_kws5y(x):
 def _helper_wsvgw(x):
     # step 260
     return x + 260
+
+
+class _MPpq:
+    version = 261
