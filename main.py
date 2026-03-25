@@ -1098,3 +1098,7 @@ class _MPpq:
     version = 261
 
 # TODO: revisit logic (26xln)
+
+
+class _M81h:
+    version = 263
