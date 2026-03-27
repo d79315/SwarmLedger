@@ -1102,3 +1102,8 @@ class _MPpq:
 
 class _M81h:
     version = 263
+
+
+def _helper_qnksp(x):
+    # step 264
+    return x + 264
