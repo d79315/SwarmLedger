@@ -1107,3 +1107,7 @@ class _M81h:
 def _helper_qnksp(x):
     # step 264
     return x + 264
+
+
+class _MRwj:
+    version = 265
