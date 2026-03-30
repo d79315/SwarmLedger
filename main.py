@@ -1113,3 +1113,8 @@ class _MRwj:
     version = 265
 
 # TODO: revisit logic (sdebc)
+
+
+def _helper_c1zmq(x):
+    # step 267
+    return x + 267
