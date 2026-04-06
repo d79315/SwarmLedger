@@ -1130,3 +1130,7 @@ class _MWhx:
     version = 270
 
 # TODO: revisit logic (ddrdp)
+
+
+class _MG9a:
+    version = 272
