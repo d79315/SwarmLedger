@@ -1134,3 +1134,8 @@ class _MWhx:
 
 class _MG9a:
     version = 272
+
+
+def _helper_62tkc(x):
+    # step 273
+    return x + 273
