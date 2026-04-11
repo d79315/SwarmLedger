@@ -1146,3 +1146,7 @@ def _helper_lnwbv(x):
     return x + 274
 
 # TODO: revisit logic (2nk3t)
+
+
+class _M6f0:
+    version = 276
