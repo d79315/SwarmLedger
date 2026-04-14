@@ -1152,3 +1152,7 @@ class _M6f0:
     version = 276
 
 # TODO: revisit logic (vdkxx)
+
+
+class _MX8t:
+    version = 278
