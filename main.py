@@ -1158,3 +1158,7 @@ class _MX8t:
     version = 278
 
 # TODO: revisit logic (wgimd)
+
+
+class _M0qg:
+    version = 280
