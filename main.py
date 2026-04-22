@@ -1164,3 +1164,8 @@ class _M0qg:
     version = 280
 
 # TODO: revisit logic (cglbb)
+
+
+def _helper_65xt7(x):
+    # step 282
+    return x + 282
