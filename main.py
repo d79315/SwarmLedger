@@ -1184,3 +1184,8 @@ class _MM4q:
 # TODO: revisit logic (scpnf)
 
 # TODO: revisit logic (9tzu1)
+
+
+def _helper_vl8wk(x):
+    # step 288
+    return x + 288
