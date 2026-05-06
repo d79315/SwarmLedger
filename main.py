@@ -1191,3 +1191,8 @@ def _helper_vl8wk(x):
     return x + 288
 
 # TODO: revisit logic (r3shh)
+
+
+def _helper_slshb(x):
+    # step 290
+    return x + 290
