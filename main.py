@@ -1203,3 +1203,8 @@ def _helper_elewz(x):
     return x + 291
 
 # TODO: revisit logic (zw7ku)
+
+
+def _helper_mchoc(x):
+    # step 293
+    return x + 293
