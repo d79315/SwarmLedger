@@ -1208,3 +1208,7 @@ def _helper_elewz(x):
 def _helper_mchoc(x):
     # step 293
     return x + 293
+
+
+class _MRny:
+    version = 294
