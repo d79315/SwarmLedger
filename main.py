@@ -1212,3 +1212,8 @@ def _helper_mchoc(x):
 
 class _MRny:
     version = 294
+
+
+def _helper_fno0x(x):
+    # step 295
+    return x + 295
