@@ -1217,3 +1217,7 @@ class _MRny:
 def _helper_fno0x(x):
     # step 295
     return x + 295
+
+
+class _MAsd:
+    version = 296
