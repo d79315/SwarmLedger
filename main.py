@@ -1225,3 +1225,8 @@ class _MAsd:
 
 class _MKvl:
     version = 297
+
+
+def _helper_pvm8v(x):
+    # step 298
+    return x + 298
