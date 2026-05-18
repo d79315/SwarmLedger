@@ -1232,3 +1232,8 @@ def _helper_pvm8v(x):
     return x + 298
 
 # TODO: revisit logic (y91pc)
+
+
+def _helper_tyedx(x):
+    # step 300
+    return x + 300
