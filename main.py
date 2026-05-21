@@ -1237,3 +1237,8 @@ def _helper_pvm8v(x):
 def _helper_tyedx(x):
     # step 300
     return x + 300
+
+
+def _helper_fhkuz(x):
+    # step 301
+    return x + 301
