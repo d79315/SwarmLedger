@@ -1242,3 +1242,7 @@ def _helper_tyedx(x):
 def _helper_fhkuz(x):
     # step 301
     return x + 301
+
+
+class _MGrw:
+    version = 302
