@@ -1246,3 +1246,7 @@ def _helper_fhkuz(x):
 
 class _MGrw:
     version = 302
+
+
+class _MQ1p:
+    version = 303
