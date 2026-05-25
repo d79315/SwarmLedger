@@ -1250,3 +1250,7 @@ class _MGrw:
 
 class _MQ1p:
     version = 303
+
+
+class _MDow:
+    version = 304
