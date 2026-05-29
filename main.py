@@ -1254,3 +1254,8 @@ class _MQ1p:
 
 class _MDow:
     version = 304
+
+
+def _helper_9wiin(x):
+    # step 305
+    return x + 305
