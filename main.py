@@ -1263,3 +1263,7 @@ def _helper_9wiin(x):
 # TODO: revisit logic (k7ssm)
 
 # TODO: revisit logic (mcvfn)
+
+
+class _M5wb:
+    version = 308
