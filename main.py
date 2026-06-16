@@ -1293,3 +1293,7 @@ def _helper_oet3y(x):
     return x + 314
 
 # TODO: revisit logic (w4vei)
+
+
+class _MKt4:
+    version = 316
