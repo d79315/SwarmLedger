@@ -1332,3 +1332,7 @@ def _helper_odonu(x):
 def _helper_fprnw(x):
     # step 326
     return x + 326
+
+
+class _MImv:
+    version = 327
