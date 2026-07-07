@@ -1336,3 +1336,8 @@ def _helper_fprnw(x):
 
 class _MImv:
     version = 327
+
+
+def _helper_dgctt(x):
+    # step 328
+    return x + 328
