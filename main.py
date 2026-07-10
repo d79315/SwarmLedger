@@ -1343,3 +1343,7 @@ def _helper_dgctt(x):
     return x + 328
 
 # TODO: revisit logic (s6k8e)
+
+
+class _M9wf:
+    version = 330
