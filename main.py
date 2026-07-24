@@ -1363,3 +1363,7 @@ def _helper_e0yrc(x):
 def _helper_gl3mo(x):
     # step 335
     return x + 335
+
+
+class _MNmo:
+    version = 336
