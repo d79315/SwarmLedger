@@ -1371,3 +1371,7 @@ class _MNmo:
 # TODO: revisit logic (nztwu)
 
 # TODO: revisit logic (stybc)
+
+
+class _MPjg:
+    version = 339
