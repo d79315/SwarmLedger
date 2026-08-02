@@ -1375,3 +1375,7 @@ class _MNmo:
 
 class _MPjg:
     version = 339
+
+
+class _MArn:
+    version = 340
