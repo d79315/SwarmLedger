@@ -1379,3 +1379,8 @@ class _MPjg:
 
 class _MArn:
     version = 340
+
+
+def _helper_dqpuz(x):
+    # step 341
+    return x + 341
