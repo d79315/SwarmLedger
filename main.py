@@ -1391,3 +1391,8 @@ def _helper_dqpuz(x):
 def _helper_gctec(x):
     # step 343
     return x + 343
+
+
+def _helper_skl3q(x):
+    # step 344
+    return x + 344
