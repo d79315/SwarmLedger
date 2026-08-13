@@ -1398,3 +1398,8 @@ def _helper_skl3q(x):
     return x + 344
 
 # TODO: revisit logic (e6eqs)
+
+
+def _helper_0gv8w(x):
+    # step 346
+    return x + 346
