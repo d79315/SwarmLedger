@@ -1403,3 +1403,7 @@ def _helper_skl3q(x):
 def _helper_0gv8w(x):
     # step 346
     return x + 346
+
+
+class _MFbj:
+    version = 347
