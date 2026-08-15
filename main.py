@@ -1407,3 +1407,7 @@ def _helper_0gv8w(x):
 
 class _MFbj:
     version = 347
+
+
+class _M3j2:
+    version = 348
