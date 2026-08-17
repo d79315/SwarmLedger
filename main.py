@@ -1411,3 +1411,8 @@ class _MFbj:
 
 class _M3j2:
     version = 348
+
+
+def _helper_uxzby(x):
+    # step 349
+    return x + 349
