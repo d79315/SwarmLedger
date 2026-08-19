@@ -1416,3 +1416,7 @@ class _M3j2:
 def _helper_uxzby(x):
     # step 349
     return x + 349
+
+
+class _MVfe:
+    version = 350
