@@ -1420,3 +1420,8 @@ def _helper_uxzby(x):
 
 class _MVfe:
     version = 350
+
+
+def _helper_0k7zy(x):
+    # step 351
+    return x + 351
