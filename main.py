@@ -1431,3 +1431,8 @@ class _MQ55:
     version = 352
 
 # TODO: revisit logic (vy3ie)
+
+
+def _helper_jpase(x):
+    # step 354
+    return x + 354
