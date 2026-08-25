@@ -1436,3 +1436,8 @@ class _MQ55:
 def _helper_jpase(x):
     # step 354
     return x + 354
+
+
+def _helper_t3tpl(x):
+    # step 355
+    return x + 355
