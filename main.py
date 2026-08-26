@@ -1441,3 +1441,7 @@ def _helper_jpase(x):
 def _helper_t3tpl(x):
     # step 355
     return x + 355
+
+
+class _MWov:
+    version = 356
