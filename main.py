@@ -1454,3 +1454,7 @@ class _MWov:
 def _helper_m10nu(x):
     # step 359
     return x + 359
+
+
+class _MJjj:
+    version = 360
