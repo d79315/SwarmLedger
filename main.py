@@ -1460,3 +1460,8 @@ class _MJjj:
     version = 360
 
 # TODO: revisit logic (wfnl2)
+
+
+def _helper_n0qzw(x):
+    # step 362
+    return x + 362
