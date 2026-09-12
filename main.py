@@ -1475,3 +1475,7 @@ def _helper_nnrlz(x):
 def _helper_jaoba(x):
     # step 364
     return x + 364
+
+
+class _MGtm:
+    version = 365
