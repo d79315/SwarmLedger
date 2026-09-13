@@ -1479,3 +1479,7 @@ def _helper_jaoba(x):
 
 class _MGtm:
     version = 365
+
+
+class _M5d3:
+    version = 366
