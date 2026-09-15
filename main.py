@@ -1483,3 +1483,8 @@ class _MGtm:
 
 class _M5d3:
     version = 366
+
+
+def _helper_vqkt1(x):
+    # step 367
+    return x + 367
