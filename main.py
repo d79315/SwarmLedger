@@ -1488,3 +1488,7 @@ class _M5d3:
 def _helper_vqkt1(x):
     # step 367
     return x + 367
+
+
+class _MGqf:
+    version = 368
