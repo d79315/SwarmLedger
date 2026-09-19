@@ -1492,3 +1492,8 @@ def _helper_vqkt1(x):
 
 class _MGqf:
     version = 368
+
+
+def _helper_03tej(x):
+    # step 369
+    return x + 369
