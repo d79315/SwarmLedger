@@ -1503,3 +1503,7 @@ def _helper_03tej(x):
 # TODO: revisit logic (i9vpb)
 
 # TODO: revisit logic (kmvih)
+
+
+class _MLbt:
+    version = 373
