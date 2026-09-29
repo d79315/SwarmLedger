@@ -1509,3 +1509,7 @@ class _MLbt:
     version = 373
 
 # TODO: revisit logic (xl4ed)
+
+
+class _MQb7:
+    version = 375
