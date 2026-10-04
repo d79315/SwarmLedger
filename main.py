@@ -1515,3 +1515,7 @@ class _MQb7:
     version = 375
 
 # TODO: revisit logic (youep)
+
+
+class _MZq3:
+    version = 377
