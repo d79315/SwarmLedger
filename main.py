@@ -1519,3 +1519,8 @@ class _MQb7:
 
 class _MZq3:
     version = 377
+
+
+def _helper_fxupl(x):
+    # step 378
+    return x + 378
