@@ -1526,3 +1526,8 @@ def _helper_fxupl(x):
     return x + 378
 
 # TODO: revisit logic (g3i9z)
+
+
+def _helper_xdrg6(x):
+    # step 380
+    return x + 380
