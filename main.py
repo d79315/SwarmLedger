@@ -1543,3 +1543,7 @@ def _helper_jqhco(x):
 def _helper_7uvgm(x):
     # step 383
     return x + 383
+
+
+class _MU9d:
+    version = 384
