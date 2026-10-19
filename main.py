@@ -1559,3 +1559,7 @@ def _helper_dt73u(x):
 def _helper_pfxb7(x):
     # step 387
     return x + 387
+
+
+class _MWpn:
+    version = 388
