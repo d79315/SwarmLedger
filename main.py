@@ -1565,3 +1565,7 @@ class _MWpn:
     version = 388
 
 # TODO: revisit logic (dmvs9)
+
+
+class _MRtp:
+    version = 390
