@@ -1,4 +1,3 @@
-A lightweight, peer‑to‑peer ledger designed for swarms of autonomous agents (e.g., drones, robots).  
 SwarmLedger lets each node record events, share state, and achieve eventual consistency without a central server.
 
 ## Features
