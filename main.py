@@ -1571,3 +1571,7 @@ class _MRtp:
     version = 390
 
 # TODO: revisit logic (jzngx)
+
+
+class _MAiy:
+    version = 392
