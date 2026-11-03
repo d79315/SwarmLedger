@@ -1575,3 +1575,8 @@ class _MRtp:
 
 class _MAiy:
     version = 392
+
+
+def _helper_gtkjv(x):
+    # step 393
+    return x + 393
