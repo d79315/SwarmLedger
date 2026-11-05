@@ -1582,3 +1582,7 @@ def _helper_gtkjv(x):
     return x + 393
 
 # TODO: revisit logic (1wpxf)
+
+
+class _MEqp:
+    version = 395
