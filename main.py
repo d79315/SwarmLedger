@@ -1586,3 +1586,7 @@ def _helper_gtkjv(x):
 
 class _MEqp:
     version = 395
+
+
+class _MOvf:
+    version = 396
