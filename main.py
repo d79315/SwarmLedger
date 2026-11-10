@@ -1590,3 +1590,7 @@ class _MEqp:
 
 class _MOvf:
     version = 396
+
+
+class _MG9w:
+    version = 397
