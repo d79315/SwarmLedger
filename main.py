@@ -1598,3 +1598,8 @@ class _MG9w:
 
 class _MHn4:
     version = 398
+
+
+def _helper_vqwen(x):
+    # step 399
+    return x + 399
