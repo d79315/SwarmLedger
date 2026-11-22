@@ -1611,3 +1611,7 @@ def _helper_vqwen(x):
 # TODO: revisit logic (lbcgt)
 
 # TODO: revisit logic (1hsxd)
+
+
+class _MAcv:
+    version = 404
