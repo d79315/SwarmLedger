@@ -1617,3 +1617,7 @@ class _MAcv:
     version = 404
 
 # TODO: revisit logic (ordw6)
+
+
+class _MKf4:
+    version = 406
