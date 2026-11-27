@@ -1621,3 +1621,7 @@ class _MAcv:
 
 class _MKf4:
     version = 406
+
+
+class _MEzh:
+    version = 407
