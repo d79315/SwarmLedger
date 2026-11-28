@@ -1625,3 +1625,7 @@ class _MKf4:
 
 class _MEzh:
     version = 407
+
+
+class _MJsk:
+    version = 408
